@@ -9,6 +9,6 @@ fun main(){
     println("His age is $age")
     println("His salary is $salary")
     println("His skill level is $skillLevel")
-    println("He is currently acitive? $isActive")
+    println("He is currently active? $isActive")
 
 }
