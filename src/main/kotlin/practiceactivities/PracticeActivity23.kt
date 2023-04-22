@@ -1,3 +1,5 @@
+package practiceactivities
+
 fun main() {
     var num = ArrayList<Int>()
     println("Enter Number 1")
