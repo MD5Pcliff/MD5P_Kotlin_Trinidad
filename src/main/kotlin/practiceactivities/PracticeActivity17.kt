@@ -1,3 +1,5 @@
+package practiceactivities
+
 fun main(){
     var average :Double = 0.0
     var number2 :Double = 0.0

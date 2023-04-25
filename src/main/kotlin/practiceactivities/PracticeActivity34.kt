@@ -1,3 +1,5 @@
+package practiceactivities
+
 fun main(){
     println("Please Enter a String:")
     var name = readln()
@@ -30,7 +32,7 @@ fun main(){
             count++
         }
         }
-    println(counter)
+    println("Number of Vowels is = $counter")
     }
 
 

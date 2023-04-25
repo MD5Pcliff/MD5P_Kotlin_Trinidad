@@ -1,3 +1,5 @@
+package kotlinprograms
+
 fun main(){
     // while loop
     //1: Loop Variable

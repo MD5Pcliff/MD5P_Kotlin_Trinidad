@@ -1,3 +1,5 @@
+package practiceactivities
+
 fun main(){
     //Declaration of Variable
     var n = 0 //Positive Interger

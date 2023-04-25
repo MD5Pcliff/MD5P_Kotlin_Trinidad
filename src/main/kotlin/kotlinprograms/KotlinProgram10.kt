@@ -1,3 +1,5 @@
+package kotlinprograms
+
 fun main() {
 
         var age: Int = 0

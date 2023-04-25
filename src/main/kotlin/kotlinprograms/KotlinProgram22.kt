@@ -1,3 +1,5 @@
+package kotlinprograms
+
 fun main(){
     //list
     var beatles = listOf<String>("Paul" , "John" , "Ringo" , "George")

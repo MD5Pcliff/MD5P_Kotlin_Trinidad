@@ -1,3 +1,5 @@
+package practiceactivities
+
 fun main(){
     var num = mutableListOf<Int>(25, 20, 15, 10, 5)
     var ctrl = 0

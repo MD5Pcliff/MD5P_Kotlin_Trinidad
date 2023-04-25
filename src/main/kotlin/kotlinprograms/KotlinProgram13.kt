@@ -1,3 +1,5 @@
+package kotlinprograms
+
 fun main(){
     //when statement -> java , c , c# , c++ -> switch statement
     //digits to word

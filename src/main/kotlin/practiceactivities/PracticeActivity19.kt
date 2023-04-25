@@ -1,3 +1,5 @@
+package practiceactivities
+
 fun main(){
     //Declaration of Variable
     var counter :Int = 1 //Number of Loop

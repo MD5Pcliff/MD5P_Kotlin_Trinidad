@@ -1,3 +1,5 @@
+package practiceactivities
+
 fun main(){
     var n = 0
     println("Enter a Positive Number:")

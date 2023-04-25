@@ -1,3 +1,5 @@
+package practiceactivities
+
 fun main() {
     var n: Int = 0
     var ctrl = 0

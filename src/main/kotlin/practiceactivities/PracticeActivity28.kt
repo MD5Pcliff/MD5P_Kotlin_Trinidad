@@ -1,3 +1,5 @@
+package practiceactivities
+
 fun main(){
     var temp :Double = 0.0
     print("Main Menu")

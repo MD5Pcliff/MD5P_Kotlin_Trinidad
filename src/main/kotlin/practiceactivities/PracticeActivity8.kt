@@ -1,3 +1,5 @@
+package practiceactivities
+
 fun main(){
     var grade :Int = 0
     println("Please Enter your Exam Score:")

@@ -1,3 +1,5 @@
+package practiceactivities
+
 fun main(){
     var ctrl1 = 0
     while(ctrl1 < 5){

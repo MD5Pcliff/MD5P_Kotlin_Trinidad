@@ -1,4 +1,4 @@
-import javax.swing.InputMap
+package practiceactivities
 
 fun main(){
     //Input

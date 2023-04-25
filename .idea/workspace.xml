@@ -5,8 +5,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61e50953-ef7f-4dee-a1fb-246cc0747c74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PracticeActivity15.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PracticeActivity25.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/PracticeActivity25.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram10.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram11.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram12.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram12.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram13.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram14.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram14.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram15.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram15.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram16.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram16.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram17.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram17.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram18.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram18.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram19.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram19.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram20.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram20.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram21.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram21.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram22.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram22.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram23.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram23.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram24.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram24.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram25.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram25.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram26.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram26.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram27.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram27.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram28.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram28.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram7.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram8.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram9.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity10.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity11.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity12.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity12.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity13.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity14.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity14.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity15.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity15.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity16.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity16.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity17.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity17.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity18.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity18.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity19.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity19.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity20.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity20.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity21.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity21.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity22.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity22.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity24.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity24.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity26.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity26.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity27.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity27.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity28.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity28.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity29.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity29.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity30.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity30.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity31.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity31.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity32.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity32.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity33.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity33.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity34.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity34.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity6.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity7.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity8.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity9.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +86,12 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JINYI\IdeaProjects\MD5P_Projects\src\main\kotlin\practiceactivities" />
+      <recent name="C:\Users\JINYI\IdeaProjects\MD5P_Projects\src\main\kotlin\kotlinprograms" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,19 +118,34 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/KotlinProgram15.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram15.kt</url>
           <line>5</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/KotlinProgram16.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram16.kt</url>
           <line>3</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/PracticeActivity19.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity19.kt</url>
           <line>2</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity23.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity27.kt</url>
+          <line>5</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity34.kt</url>
+          <line>1</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,3 +1,5 @@
+package practiceactivities
+
 fun main(){
     println("Please Enter a String:")
     var name = readln()

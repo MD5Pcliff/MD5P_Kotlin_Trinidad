@@ -1,3 +1,5 @@
+package practiceactivities
+
 fun main(){
     var num = listOf<Int>(2, 4, 6, 8, 10)
     println("Number   Square   Cube")

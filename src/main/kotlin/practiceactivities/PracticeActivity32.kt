@@ -1,3 +1,5 @@
+package practiceactivities
+
 fun main(){
 
     var setA = mutableMapOf<String , Double>()
@@ -28,12 +30,14 @@ fun main(){
     var total = 0.0
 
 
+
+
     for ((id, element) in setA) {
         println("$id     ${element.toDouble()}")
-        total = element.toDouble()+element.toDouble()
-
+        total = total+element
 
     }
+
     println("_____________")
     println("Total   $total")
 

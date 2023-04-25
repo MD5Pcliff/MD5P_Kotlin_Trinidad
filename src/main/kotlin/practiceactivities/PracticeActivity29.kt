@@ -1,4 +1,4 @@
-import java.lang.Math.max
+package practiceactivities
 
 fun main() {
     var integers = ArrayList<Int>()

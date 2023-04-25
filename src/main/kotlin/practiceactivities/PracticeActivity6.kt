@@ -1,3 +1,5 @@
+package practiceactivities
+
 fun main(){
     var n :Int = 0
     println("Please Enter a Number:")

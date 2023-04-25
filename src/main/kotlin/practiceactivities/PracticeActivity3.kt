@@ -1,3 +1,5 @@
+package practiceactivities
+
 fun main(){
     //Inputs
     var day1 = 39.99

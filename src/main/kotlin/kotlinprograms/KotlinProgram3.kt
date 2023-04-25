@@ -1,3 +1,5 @@
+package kotlinprograms
+
 fun main(){
     //Input - Process - Output
     //for String only

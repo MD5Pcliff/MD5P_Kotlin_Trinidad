@@ -1,3 +1,5 @@
+package kotlinprograms
+
 fun main(){
     //Program Description
     //This is a program that can register student profile

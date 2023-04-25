@@ -1,3 +1,5 @@
+package kotlinprograms
+
 fun main(){
     var ctrl1 = 0
     while(ctrl1 < 8){

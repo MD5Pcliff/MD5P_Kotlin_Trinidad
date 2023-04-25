@@ -1,3 +1,5 @@
+package kotlinprograms
+
 fun main(){
     //if else if statement
     // age 0 - 12 -> Kids

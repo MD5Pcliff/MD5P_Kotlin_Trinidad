@@ -1,5 +1,4 @@
-import kotlin.math.roundToInt
-import kotlin.math.roundToLong
+package practiceactivities
 
 fun main(){
     var length :Double = 0.0

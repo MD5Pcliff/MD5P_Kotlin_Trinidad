@@ -1,3 +1,5 @@
+package practiceactivities
+
 fun main(){
     println("Please Enter Name of Product:")
     var name = readln()

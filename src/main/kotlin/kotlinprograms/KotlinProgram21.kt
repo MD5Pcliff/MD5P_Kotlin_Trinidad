@@ -1,3 +1,5 @@
+package kotlinprograms
+
 fun main(){
     //only strings
     var names = arrayOf<String>("Paul" , "John" , "Ringo" , "George")

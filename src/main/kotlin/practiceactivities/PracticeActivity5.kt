@@ -1,3 +1,5 @@
+package practiceactivities
+
 fun main(){
     //Data
     var cashdiscount = 0.0

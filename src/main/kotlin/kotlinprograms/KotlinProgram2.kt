@@ -1,3 +1,5 @@
+package kotlinprograms
+
 fun main(){
     var name:String = "John Week"
     //displaying variable value using string interpolation

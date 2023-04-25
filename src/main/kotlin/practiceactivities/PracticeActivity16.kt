@@ -1,3 +1,5 @@
+package practiceactivities
+
 fun main(){
     var n1 :Int = 0
     var n2 :Int = 0

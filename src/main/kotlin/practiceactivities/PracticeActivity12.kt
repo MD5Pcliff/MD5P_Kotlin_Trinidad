@@ -1,3 +1,5 @@
+package practiceactivities
+
 fun main(){
     var fareamount :Int = 0
     println("Please Enter Fare Amount:")

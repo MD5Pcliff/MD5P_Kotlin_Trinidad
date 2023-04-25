@@ -1,3 +1,5 @@
+package kotlinprograms
+
 fun main(){
     //repeat statement
     repeat(5){

@@ -1,3 +1,5 @@
+package kotlinprograms
+
 fun main(){
     //maps - key value pair structure
     // <key> , <value>
