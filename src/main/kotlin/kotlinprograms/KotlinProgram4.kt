@@ -15,4 +15,8 @@ fun main (){
     println("The qoutient is $qoutient")
     println("The modulo is $modulo")
 
+    // 45 + 36 / 2 * 10
+    var computation = (45 + 36 )/(2 * 10)
+    println("The result of the computation is: $computation")
+
 }

@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61e50953-ef7f-4dee-a1fb-246cc0747c74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinProgram4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinProgram5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinProgram6.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram4.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +33,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\JINYI\IdeaProjects\MD5P_Projects\src\main\kotlin\practiceactivities" />
       <recent name="C:\Users\JINYI\IdeaProjects\MD5P_Projects\src\main\kotlin\kotlinprograms" />
+      <recent name="C:\Users\JINYI\IdeaProjects\MD5P_Projects\src\main\kotlin\practiceactivities" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
