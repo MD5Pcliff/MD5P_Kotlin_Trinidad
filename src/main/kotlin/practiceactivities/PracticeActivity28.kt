@@ -1,12 +1,14 @@
 package practiceactivities
 
 fun main(){
+    //Input of Data
     var temp :Double = 0.0
     print("Main Menu")
     println("a. Celsius to Fahrenheit")
     println("b. Fahrenheit to Celsius")
     println("c. Exit Program")
     println("Choose Option ['a' , 'b' or 'c']")
+    //Process
     var n = readln()
     when(n){
         "a" -> {

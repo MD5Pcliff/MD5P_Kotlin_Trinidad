@@ -1,7 +1,7 @@
 package practiceactivities
 
 fun main(){
-
+    //Input of data
     var setA = mutableMapOf<String , Double>()
     println("Enter Athlete's Name:")
     var a = readln()
@@ -31,7 +31,7 @@ fun main(){
 
 
 
-
+//process
     for ((id, element) in setA) {
         println("$id     ${element.toDouble()}")
         total = total+element

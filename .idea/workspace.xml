@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61e50953-ef7f-4dee-a1fb-246cc0747c74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinProgram5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinProgram6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KotlinProgram29.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PracticeActivity35.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity28.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity28.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity29.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity29.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity31.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity31.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity32.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity32.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity33.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity33.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity34.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity34.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,11 +86,6 @@
           <url>file://$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity23.kt</url>
           <line>13</line>
           <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity27.kt</url>
-          <line>5</line>
-          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity34.kt</url>
