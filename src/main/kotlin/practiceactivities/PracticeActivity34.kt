@@ -16,7 +16,7 @@ fun main(){
         var vowels3 = name[count].uppercase().contains("o".uppercase())
         var vowels4 = name[count].uppercase().contains("u".uppercase())
 
-        //conditions to count the the vowels in a word
+        //conditions to count the vowels in a word
         if (vowels == true) {
             counter++
             count++

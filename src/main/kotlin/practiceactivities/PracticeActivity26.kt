@@ -1,11 +1,20 @@
 package practiceactivities
 
 fun main(){
-    var num = mutableListOf<Int>(25, 20, 15, 10, 5)
-    var ctrl = 0
-    while(ctrl < num.size){
-        println("${num[0]-ctrl}  ${num[1]-ctrl}  ${num[2]-ctrl}  ${num[3]-ctrl}  ${num[4]-ctrl}")
-        ctrl++
+    //Declaration of Variables
+    var num = 25
+    var num2 = 0
+    var num3 = 5
+
+    for (counter in 1..num3){
+        num2 = num
+        for (colCount in 1..num3){
+            print(num2)
+            print(" ")
+            num2 -= num3
+        }
+        println()
+        num--
     }
 
 

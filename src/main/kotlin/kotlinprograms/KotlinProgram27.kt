@@ -15,7 +15,7 @@ fun main(){
 
     //substring
     var myText = "Hello World!"
-    var subtext = myText.substring(6,12)//var.substring(1st letter index , last letter index)
+    var subtext = myText.substring(2,3)//var.substring(1st letter index , last letter index)
     println(subtext)
 
     //split

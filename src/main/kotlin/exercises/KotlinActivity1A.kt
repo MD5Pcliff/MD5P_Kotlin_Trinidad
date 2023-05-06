@@ -1,3 +1,5 @@
+package exercises
+
 fun main(){
     var name:String = readln()
     var email:String = readln()

@@ -1,3 +1,5 @@
+package exercises
+
 fun main(){
     var item:String = readln()
     var quantity:Int = readln().toInt()

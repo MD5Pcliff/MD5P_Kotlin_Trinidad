@@ -2,7 +2,7 @@ package kotlinprograms
 
 fun main (){
     //arithmetic operations
-    println("This is an example of addtion: ${2+5}")
+    println("This is an example of addition: ${2+5}")
     //store in variable
     var sum :Int = 5 + 8
     var difference :Int = 5 - 8

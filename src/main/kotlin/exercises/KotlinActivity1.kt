@@ -1,3 +1,5 @@
+package exercises
+
 fun main(){
     var pos:String = "Mobile Developer"
     val dateAvailable:String = "September 2023"
