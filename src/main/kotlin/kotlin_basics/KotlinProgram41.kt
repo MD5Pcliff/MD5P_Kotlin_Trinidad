@@ -1,4 +1,4 @@
-package kotlinprograms
+package kotlin_basics
 
 fun main(){
     val displayName = {println("Peter")}

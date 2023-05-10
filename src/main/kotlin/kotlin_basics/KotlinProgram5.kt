@@ -1,4 +1,4 @@
-package kotlinprograms
+package kotlin_basics
 
 fun main(){
     var lessThan = 5 < 2 //false

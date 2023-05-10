@@ -1,4 +1,4 @@
-package kotlinprograms
+package kotlin_basics
 
 fun main(){
     //varargs - variable-length argument list

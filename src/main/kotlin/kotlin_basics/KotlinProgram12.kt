@@ -1,4 +1,4 @@
-package kotlinprograms
+package kotlin_basics
 
 fun main(){
     var defaultusername :String = "admin"

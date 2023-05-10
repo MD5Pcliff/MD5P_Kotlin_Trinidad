@@ -1,4 +1,4 @@
-package kotlinprograms
+package kotlin_basics
 
 fun main(){
     var setA = setOf(1, 2 , 3 , 4 , 5)

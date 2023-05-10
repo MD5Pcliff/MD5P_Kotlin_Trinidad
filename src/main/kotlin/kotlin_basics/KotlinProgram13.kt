@@ -1,4 +1,4 @@
-package kotlinprograms
+package kotlin_basics
 
 fun main(){
     //when statement -> java , c , c# , c++ -> switch statement

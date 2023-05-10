@@ -1,4 +1,4 @@
-package kotlinprograms
+package kotlin_basics
     fun main() {
         var number1: Int = 0
         var number2: Int = 0

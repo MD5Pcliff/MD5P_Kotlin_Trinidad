@@ -1,4 +1,4 @@
-package kotlinprograms
+package kotlin_basics
 
 fun main() {
     //Challenge1.kt
