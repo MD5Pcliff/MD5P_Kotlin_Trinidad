@@ -1,4 +1,4 @@
-package kotlin_oop1
+package kotlin_oop.kotlin_oop1
 class PersonB(name:String , age:Int){
     //attributes
     var name :String

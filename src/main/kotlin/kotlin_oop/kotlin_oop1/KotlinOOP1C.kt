@@ -1,4 +1,4 @@
-package kotlin_oop1
+package kotlin_oop.kotlin_oop1
 class PersonC(var name:String, var age:Int){
 
     fun walk(){

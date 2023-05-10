@@ -1,4 +1,4 @@
-package kotlin_oop1
+package kotlin_oop.kotlin_oop1
 //Structural Programming - Procedural Programming. Top to Bottom
 //OOP - Object-Oriented Programming
 //Objects - represent something in the real world
