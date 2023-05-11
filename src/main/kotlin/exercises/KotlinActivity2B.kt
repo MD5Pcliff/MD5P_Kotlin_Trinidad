@@ -1,9 +1,9 @@
 fun main() {
-    var tableHead = mutableListOf<String>("CATEGORY","LANGUAGE","LAST BORROWED", "COPIES AVAILABLE")
-    var cinderella = mutableListOf("Fairy Tale","English","01-02-23",4)
-    var cookingForDummies = mutableListOf("Instructional","English","03-02-23",2)
-    var almanac2023 = mutableListOf("Almanac","English","04-07-23",5)
-    var samaKutra = mutableListOf("Instructional","Hindi","01-12-23",1)
+    var name = mutableListOf<String>("CATEGORY","LANGUAGE","LAST BORROWED", "COPIES AVAILABLE")
+    var book1 = mutableListOf("PROGRAMMING","English","01-02-23",4)
+    var book2 = mutableListOf("TRIGONOMETRY","English","03-02-23",2)
+    var book3 = mutableListOf("ALGEBRA","English","04-07-23",5)
+    var book4 = mutableListOf("PHYSICS","Hindi","01-12-23",1)
 
     //input
     print("Enter Book Title to check: ")
@@ -11,15 +11,15 @@ fun main() {
 
     //process + output
     var checkBook = { checkBook: String ->
-        println(tableHead)
-        if (checkBook == "CINDERELLA") {
-            println(cinderella)
-        } else if (checkBook == "COOKINGFORDUMMIES") {
-            println(cookingForDummies)
-        } else if (checkBook == "ALMANAC2023") {
-            println(almanac2023)
-        } else if (checkBook == "SAMAKUTRA") {
-            println(samaKutra)
+        println(name)
+        if (checkBook == "PROGRAMMING") {
+            println(book1)
+        } else if (checkBook == "TRIGONOMETRY") {
+            println(book2)
+        } else if (checkBook == "ALGEBRA") {
+            println(book3)
+        } else if (checkBook == "PHYSICS") {
+            println(book4)
         } else {
             println("Book does not exist in system")
         }

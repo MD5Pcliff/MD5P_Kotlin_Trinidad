@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61e50953-ef7f-4dee-a1fb-246cc0747c74" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity3C.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1B.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1B.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1D.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1D.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1F.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1F.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1G.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1G.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1H.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1H.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1I.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1I.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1J.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1J.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity2A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity2A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity2B.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity2B.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity2C.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity2C.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity2D.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity2D.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity3B.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity3B.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivity_oop/PracticeActivity_OOP1/Person.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivity_oop/PracticeActivity_OOP1/Person.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +53,7 @@
       <recent name="C:\Users\JINYI\IdeaProjects\MD5P_Projects\src\main\kotlin\kotlinprograms" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.PracticeActivity1Kt">
     <configuration name="PracticeActivity1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practiceactivities.PracticeActivity1Kt" />
       <module name="MD5P_Projects" />

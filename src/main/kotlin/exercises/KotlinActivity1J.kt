@@ -1,10 +1,10 @@
 fun main() {
 
     var price = hashMapOf<String, Double>()
-    price.put("SOAP", 7.5)
-    price.put("BREAD", 40.0)
-    price.put("OATS", 50.55)
-    price.put("WATER", 9.95)
+    price.put("WATER", 8.0)
+    price.put("RICE", 54.0)
+    price.put("SOFTDRINKS", 13.5)
+    price.put("NOODLES", 12.0)
 
     var cart = hashMapOf<String, Int>()
 
