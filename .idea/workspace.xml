@@ -5,14 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61e50953-ef7f-4dee-a1fb-246cc0747c74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1F.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity36.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivities/PracticeActivity36.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1A.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1B.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1B.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1D.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1D.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1F.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1F.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1G.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1G.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1H.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1H.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1I.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1I.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1J.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity1J.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity2A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity2A.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity2B.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity2B.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity2C.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity2C.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity2D.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity2D.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity3B.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity3B.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practiceactivity_oop/PracticeActivity_OOP1/Person.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivity_oop/PracticeActivity_OOP1/Person.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,6 +60,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JINYI\IdeaProjects\MD5P_Projects\src\main\kotlin\kotlin_oop1" />
       <recent name="C:\Users\JINYI\IdeaProjects\MD5P_Projects\src\main\kotlin\exercises" />
       <recent name="C:\Users\JINYI\IdeaProjects\MD5P_Projects\src\main\kotlin\practiceactivities" />
       <recent name="C:\Users\JINYI\IdeaProjects\MD5P_Projects\src\main\kotlin\kotlinprograms" />
@@ -93,12 +114,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram15.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/kotlin_basics/KotlinProgram15.kt</url>
           <line>5</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram16.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/kotlin_basics/KotlinProgram16.kt</url>
           <line>3</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
@@ -123,7 +144,7 @@
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/kotlinprograms/KotlinProgram29.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/kotlin_basics/KotlinProgram29.kt</url>
           <line>13</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>

@@ -3,7 +3,7 @@ fun main(){
     var option:Char = 'i'
 
     do{
-        showMenu() //Show menu option
+        showMenu()
         option = readln().first()
         println()
 
