@@ -5,8 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61e50953-ef7f-4dee-a1fb-246cc0747c74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity3C.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises/KotlinActivity4A/Student.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop3_normalclass/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop3_normalclass/PersonDriver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop4_singleton/Singleton.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop4_singleton/SingletonDriver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop5_dataclass/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop5_dataclass/PersonDriver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop6_innerclass/Outer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop6_innerclass/OuterDriver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop7_nestedclass/Empty.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop7_nestedclass/Outer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop7_nestedclass/OuterDriver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop8_encapsulation/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop8_encapsulation/PersonDriver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivity_oop/PracticeActivity_OOP10/BankAccount.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivity_oop/PracticeActivity_OOP10/BankAccountDriver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivity_oop/PracticeActivity_OOP11/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivity_oop/PracticeActivity_OOP11/PersonDriver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivity_oop/PracticeActivity_OOP12/MathUtils.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivity_oop/PracticeActivity_OOP12/MatrhUtilsDriver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivity_oop/PracticeActivity_OOP13/University.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivity_oop/PracticeActivity_OOP13/UniversityDriver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivity_oop/PracticeActivity_OOP6/Shape.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivity_oop/PracticeActivity_OOP6/ShapeDriver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivity_oop/PracticeActivity_OOP7/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivity_oop/PracticeActivity_OOP7/PersonDriver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivity_oop/PracticeActivity_OOP8/Date.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivity_oop/PracticeActivity_OOP8/DateDriver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivity_oop/PracticeActivity_OOP9/Car.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practiceactivity_oop/PracticeActivity_OOP9/CarDriver.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop1/KotlinOOP1A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop1_basics/KotlinOOP1A.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop1/KotlinOOP1B.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop1_basics/KotlinOOP1B.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop1/KotlinOOP1C.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop1_basics/KotlinOOP1C.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop2/MobilePhone.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop2_sampleapplication/MobilePhone.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop2/MobilePhoneDriver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin_oop/kotlin_oop2_sampleapplication/MobilePhoneDriver.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +87,7 @@
       <recent name="C:\Users\JINYI\IdeaProjects\MD5P_Projects\src\main\kotlin\kotlinprograms" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.PracticeActivity1Kt">
+  <component name="RunManager">
     <configuration name="PracticeActivity1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practiceactivities.PracticeActivity1Kt" />
       <module name="MD5P_Projects" />

@@ -1,4 +1,4 @@
-package kotlin_oop.kotlin_oop2
+package kotlin_oop.kotlin_oop2_sampleapplication
 
 fun main(){
     var myPhone = MobilePhone(10)

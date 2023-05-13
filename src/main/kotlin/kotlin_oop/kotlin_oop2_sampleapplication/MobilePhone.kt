@@ -1,4 +1,4 @@
-package kotlin_oop.kotlin_oop2
+package kotlin_oop.kotlin_oop2_sampleapplication
 
 class MobilePhone(var load:Int) {
     var messageLogs = mutableListOf<String>()
