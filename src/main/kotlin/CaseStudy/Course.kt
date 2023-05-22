@@ -1,0 +1,4 @@
+package CaseStudy
+
+class Course {
+}
