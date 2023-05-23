@@ -1,4 +1,11 @@
 package kotlin_oop.kotlin_oop12_abstractsample
 
-class Circle {
+class Circle(private val radius:Double):Shape() {
+    override fun area(): Double {
+        return Math.PI * radius * radius
+    }
+
+    override fun perimeter(): Double {
+        return 2 * Math.PI * radius
+    }
 }

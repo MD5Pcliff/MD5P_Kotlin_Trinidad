@@ -1,4 +1,6 @@
 package kotlin_oop.kotlin_oop12_abstractsample
 
-class Shape {
+abstract class Shape {
+    abstract fun area():Double
+    abstract fun perimeter():Double
 }
